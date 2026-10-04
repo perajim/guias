@@ -17,15 +17,15 @@ Guía de estudio completa en español para la certificación **AWS Certified Clo
 ├── README.md
 ├── docs/                              # Temario, en Markdown
 │   ├── plan_estudio_10_semanas.md
-│   ├── parte1_cloud_computing.md
-│   ├── parte2_introduccion_aws.md
-│   ├── parte3_iam.md
-│   ├── parte4_computo.md
-│   ├── parte5_almacenamiento.md
-│   ├── parte6_bases_de_datos.md
-│   ├── parte7_networking.md
-│   ├── parte8_seguridad.md
-│   ├── parte9_observabilidad.md
+│   ├── parte01_cloud_computing.md
+│   ├── parte02_introduccion_aws.md
+│   ├── parte03_iam.md
+│   ├── parte04_computo.md
+│   ├── parte05_almacenamiento.md
+│   ├── parte06_bases_de_datos.md
+│   ├── parte07_networking.md
+│   ├── parte08_seguridad.md
+│   ├── parte09_observabilidad.md
 │   ├── parte10_integracion.md
 │   ├── parte11_costos.md
 │   ├── parte12_well_architected.md
@@ -38,22 +38,22 @@ Guía de estudio completa en español para la certificación **AWS Certified Clo
 │   ├── simulacro_4.md
 │   └── simulacro_5.md
 ├── preguntas/                         # Las mismas preguntas de docs/, SIN respuesta marcada
-│   ├── parte1_preguntas.md
-│   ├── parte2_preguntas.md
-│   ├── parte3_preguntas.md
-│   ├── parte4_preguntas.md
-│   ├── parte5_preguntas.md
-│   ├── parte6_preguntas.md
-│   ├── parte7_preguntas.md
-│   ├── parte8_preguntas.md
-│   ├── parte9_preguntas.md
+│   ├── parte01_preguntas.md
+│   ├── parte02_preguntas.md
+│   ├── parte03_preguntas.md
+│   ├── parte04_preguntas.md
+│   ├── parte05_preguntas.md
+│   ├── parte06_preguntas.md
+│   ├── parte07_preguntas.md
+│   ├── parte08_preguntas.md
+│   ├── parte09_preguntas.md
 │   ├── parte10_preguntas.md
 │   ├── parte11_preguntas.md
 │   ├── parte12_preguntas.md
 │   └── parte13_preguntas.md
 └── docx/                              # Mismos contenidos en Word
     ├── plan_estudio_10_semanas.docx
-    ├── parte1_cloud_computing.docx … parte13_servicios_adicionales.docx
+    ├── parte01_cloud_computing.docx … parte13_servicios_adicionales.docx
     ├── estrategias_examen.docx
     ├── simulacro_1.docx … simulacro_5.docx
     ├── AWS_CLF-C02_Guia_Completa.docx          # las 20 piezas en un solo .docx
